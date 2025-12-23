@@ -1,6 +1,6 @@
 # Конфигурация бота Raven Client
 
-BOT_TOKEN = "8552269643:AAFmcWDfj2LKS6cOYyMyWuzLR8GVqv3b0U8"
+BOT_TOKEN = "8365617645:AAGWXXb8dtqc_VVgz_bCYjfHXgDsBPtvgCk"
 ADMIN_IDS = [7058964435]
 
 # Цены на подписки (в рублях)
@@ -23,3 +23,4 @@ SUBSCRIPTION_NAMES = {
 PAYMENT_CARD = "2200 7017 7318 8609"  # Замени на свою карту
 
 PAYMENT_SBP = "Я бомж, у меня нету номера :("  # Замени на свой номер
+
